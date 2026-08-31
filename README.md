@@ -1,16 +1,16 @@
-## Hi there 👋
+## I'm Sadrach 👋
 
-<!--
-**SadLib/SadLib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on Full-Stack development.
 
-Here are some ideas to get you started:
+Currently working with:
+- TypeScript / Next.js
+- Python / FastAPI
+- PostgreSQL
+- Git / Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in:
+- Backend development
+- Cloud
+- Software architecture
+- Cybersecurity
+
